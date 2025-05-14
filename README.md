@@ -8,9 +8,9 @@ To develop and compare time series forecasting models that predict future trends
 **Dataset**:
 The dataset is sourced from the Federal Reserve Economic Data (FRED) <https://fred.stlouisfed.org/categories>, and comprises of the following variables:
 1. PCE (monthly in billions of USD)
-2. Disposable Personal Income (billions of dollars)
+2. Disposable Personal Income (in billions of USD)
 3. Price Index (PCE-based)
-4. Total Federal Outlay (billions of USD)
+4. Total Federal Outlay (in billions of USD)
    
 **Methodology**:
 1. SARIMA (Seasonal AutoRegressive Integrated Moving Average):
