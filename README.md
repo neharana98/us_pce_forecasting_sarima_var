@@ -6,7 +6,7 @@ As a major driver of economic growth, Private Consumption Expenditure (PCE) acco
 To develop and compare time series forecasting models that predict future trends in PCE with a high degree of accuracy.
 
 **Dataset**:
-The dataset is sourced from the Federal Reserve Economic Data (FRED), and comprises of the following variables <https://fred.stlouisfed.org/categories>:
+The dataset is sourced from the Federal Reserve Economic Data (FRED) <https://fred.stlouisfed.org/categories>, and comprises of the following variables:
 1. PCE (monthly in billions of USD)
 2. Disposable Personal Income (billions of dollars)
 3. Price Index (PCE-based)
