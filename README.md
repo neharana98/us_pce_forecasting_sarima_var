@@ -3,7 +3,7 @@
 As a major driver of economic growth, Private Consumption Expenditure (PCE) accounts for over 65% of the U.S. GDP. Given its significance, forecasting PCE is crucial for policymakers and analysts to understand economic trends.
 
 **Objective**:
-To develop and compare time series forecasting models that predict future trends in PCE with a high degree of accuracy.
+To develop time series forecasting models that predict future trends in PCE, and compare them to see which one performs better.
 
 **Dataset**:
 The dataset is sourced from the Federal Reserve Economic Data (FRED) <https://fred.stlouisfed.org/categories>, and comprises of the following variables:
